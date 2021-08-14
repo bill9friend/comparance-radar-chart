@@ -1,0 +1,36 @@
+body {
+	font-family: sans-serif;
+	font-size: 14px;
+	background-color: #37373D;
+	cursor: default;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.level-line {
+	stroke: #5F5F64;
+}
+
+.level-value {
+	fill: #5F5F64;
+}
+
+.axis-line {
+	stroke: #5F5F64;
+}
+
+.axis-name {
+	fill: #fff;
+}
+
+.value {
+	fill: #fff;
+}
+
+.legend-item-text {
+	fill: #5F5F64;
+}
